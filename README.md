@@ -29,10 +29,10 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./screenshots/mobile.png" width="200" >
-<img src="./screenshots/mobile-active.png" width="200" >
-<img src="./screenshots/mobile-hover.png" width="200" >
-<img src="./screenshots/mobile-error.png" width="200" >
+<img src="./screenshots/mobile.png" width="400" >
+<img src="./screenshots/mobile-active.png" width="400" >
+<img src="./screenshots/mobile-hover.png" width="400" >
+<img src="./screenshots/mobile-error.png" width="400" >
 <img src="./screenshots/desktop.png" width="400">
 <img src="./screenshots/desktop-active.png" width="400">
 <img src="./screenshots/desktop-hover.png" width="400">
